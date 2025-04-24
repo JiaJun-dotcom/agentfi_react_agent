@@ -1,4 +1,4 @@
-# AgentFi (ReAct Agent) – Work in Progress  
+# AgentFi (ReAct Agent) – Work in Progress with another friend for AI Agent Exploration.
 
 **AgentFi** is an AI-powered financial assistant that leverages the **ReAct (Reasoning + Acting) framework** with **LangGraph** for structured decision-making. Designed for financial analysis, stock valuation, and market insights, AgentFi integrates **Ollama embeddings, Retrieval-Augmented Generation (RAG), and real-time API calls** to provide deep, data-driven insights.  
 
